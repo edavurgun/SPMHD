@@ -1,2 +1,4 @@
-# SPMHD
-Numerical Simulaitons with Smoothed Particle Magnetohydrodynamics (SPMHD) 
+a simple compile 
+
+ifort helmholtz.f90 -o helmholtz.exe
+
