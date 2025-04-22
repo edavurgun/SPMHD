@@ -1,0 +1,4 @@
+! implicit declarations
+!      implicit none
+       implicit real*8 (a-h,o-z)
+      save
